@@ -32,7 +32,7 @@ And the Colab notebook link for U-Net is: https://drive.google.com/drive/folders
 (please use command: python3 run_loadmodel_local.py)
 
 ##### PS: 
-Since our pre-trained model is based on CUDA, the loading function need CUDA too. However, due to the computer limitation, we could not test the run_local.py and run_loadmodel_local.py locally. So we are not sure about whether these two run files could run correctly or not. If you find these two files have some errors, please contack me: lei.pang@epfl.ch
+Since our pre-trained model is based on CUDA, the loading function need CUDA too. However, due to the computer limitation, we could not test the run_local.py and run_loadmodel_local.py locally. So we are not sure about whether these two run files could run correctly or not. If you find these two files have some errors, please contack me: lei.pang@epfl.ch or jingran.su@epfl.ch
 
 But for first two run files running on Colab, they are valid but it seems could only run in my own drive.
 If you want to run these two files on Colab, please upload all files included in that Colab link (notebook and .py etc) in your own Google drive. And direct the notebook to your own drive using following two commands:
